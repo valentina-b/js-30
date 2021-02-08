@@ -62,7 +62,10 @@
         // event we're listening to is 'keydown'
         // when that happens we will run this function which will give us the event
         window.addEventListener('keydown', function(e) {
-            console.log(e);
+            // const is audio tag which has data key + extracted data key from the event
+            const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+            // print audio
+            console.log(audio);
         });
 
 
