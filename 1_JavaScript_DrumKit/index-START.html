@@ -64,8 +64,11 @@
         window.addEventListener('keydown', function(e) {
             // const is audio tag which has data key + extracted data key from the event
             const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
-            // print audio
-            console.log(audio);
+            // not all keys are in the list up there so they will be printing null
+            // if there is no audio...
+            if(!audio) return; //stop the functionfrom running all together
+            // but if we have this audio, play it
+            audio.play();
         });
 
 
