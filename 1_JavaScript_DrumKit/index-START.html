@@ -66,6 +66,7 @@
             const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
             // not all keys are in the list up there so they will be printing null
             // if there is no audio...
+            audio.currentTime = 0; //rewind to the start, now the same audio needs to finish before the next sound, like F-F-F
             if(!audio) return; //stop the functionfrom running all together
             // but if we have this audio, play it
             audio.play();
