@@ -8,3 +8,7 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - adding/removing/toggling class, `transitionend` event, `forEach` loop through an array
 
 2. JS and CSS Clock
+* CSS - `transform-origin` property, `transition-timing-function` property
+* JS - `new`, `setInterval()`, `Date()`, `.getSeconds`, `.getMinutes`, `.getHours`
+
+3. CSS Variables
