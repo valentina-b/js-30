@@ -65,9 +65,10 @@
         // first we select all the inputs
         const inputs = document.querySelectorAll('.controls input')
 
-        // print the value of the input
+        // select css variables and change them accordingly
         function handleUpdate() {
-            console.log(this.value)
+            const suffix = this.dataset.sizing || '';
+            document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
         }
 
         // listen for an event on each of the inputs
