@@ -12,3 +12,8 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - `new`, `setInterval()`, `Date()`, `.getSeconds`, `.getMinutes`, `.getHours`
 
 3. CSS Variables
+* CSS - CSS variables
+* JS - `.dataset` pulling `data-*` values, `style.setProperty()`
+
+4. Array Cardio Day 1
+
