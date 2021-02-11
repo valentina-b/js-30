@@ -16,4 +16,7 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - `.dataset` pulling `data-*` values, `style.setProperty()`
 
 4. Array Cardio Day 1
+* JS - `.filter()`, `.map()`, `.sort()`, `.reduce()`, `.includes()`
+
+5. Flex Panel Gallery
 
