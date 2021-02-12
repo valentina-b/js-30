@@ -19,4 +19,8 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - `.filter()`, `.map()`, `.sort()`, `.reduce()`, `.includes()`
 
 5. Flex Panel Gallery
+* CSS - `flex` property, `transform` property
+
+6. Type Ahead
+
 
