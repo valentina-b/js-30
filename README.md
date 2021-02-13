@@ -22,5 +22,6 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * CSS - `flex` property, `transform` property
 
 6. Type Ahead
+* JS - `fetch - then`, `.push()`, `.match()`, `.replace`
 
 
