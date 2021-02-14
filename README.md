@@ -24,4 +24,9 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 6. Type Ahead
 * JS - `fetch - then`, `.push()`, `.match()`, `.replace`
 
+7. Array Cardio Day 2
+* JS - `.some()`, `.every()`, `.find()`, `.slice()`
+
+8. Fun with HTML5 Canvas
+
 
