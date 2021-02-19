@@ -28,5 +28,9 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - `.some()`, `.every()`, `.find()`, `.slice()`
 
 8. Fun with HTML5 Canvas
+* JS - `true` and `false` flags, `mouseup` event, `mousedown` event, `mousemove` event, `mouseout` event
+
+9. Dev Tools Domination
+
 
 
