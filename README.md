@@ -31,6 +31,7 @@ by Wes Bos at [javascript30.com](https://javascript30.com/)
 * JS - `true` and `false` flags, `mouseup` event, `mousedown` event, `mousemove` event, `mouseout` event
 
 9. Dev Tools Domination
+* console tools - `console.warn()`, `console.info()`, `console.error()`, `console.assert()`, `console.dir()`, `console.groupCollapsed()` and `console.groupEnd`, `console.count()`, `console.time()` and `console.timeEnd()`, `console.table()`
 
-
+10. HoldShift and Check Checkboxes
 
